@@ -11,6 +11,7 @@
   "engines": {
     "node": "16.15.0"
   },
+  //this is dependencies which we have to install during project setup
   "dependencies": {
     "body-parser": "^1.20.0",
     "ejs": "^2.7.4",
